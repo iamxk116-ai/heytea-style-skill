@@ -1,0 +1,20 @@
+Use case: ads-marketing.
+Asset type: vertical 2:3 photo-and-doodle editorial poster, independent V1 result.
+
+Input image:
+Image 1 is the only factual and visual source. Preserve the exact real orange tabby cat: facial identity, orange-and-cream coat pattern, squinting eyes, open mouth, whiskers, tucked paws, pose, body proportions and photographic fur texture. Keep it photographic, not illustrated.
+
+Concept:
+The cat becomes a warm hill with whisker paths. Action verbs: listen, cross, rest.
+
+Composition:
+Create an independent no-text composition rather than deleting words from a text layout. Crop the photographic cat larger from the right, letting its shoulder and tucked paw become broad terrain while keeping the entire face recognizable. Leave an open warm-white zone to the left. Tiny primitive workers balance beside one real whisker, sit at the edge of the tucked paw and follow the shoulder contour. Retain only a small gray-ground fragment as footing. Keep figures sparse and never cover the eyes, nose or mouth.
+
+Doodle language:
+Thin uneven black pen with inconsistent pressure, slight tremor, open segmented contours and simple faceless practical poses. No mascot, detailed anatomy or polished vector construction.
+
+Text constraint:
+Absolutely no text anywhere: no Chinese, English, letters, numbers, labels, captions, watermarks or random glyphs. Do not reserve an empty title area.
+
+Constraints:
+No collars, toys, food bowls, hats, logos, sticker collage, speech bubbles or cartoon conversion of the cat.

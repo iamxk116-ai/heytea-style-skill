@@ -1,0 +1,20 @@
+Use case: ads-marketing.
+Asset type: vertical 2:3 object-and-doodle editorial poster, V1 comparison result.
+
+Input image:
+Image 1 is the only factual source photograph. Preserve the two real yellow tulips with white and pink lower petals, their green stems, the dark green leaves, natural sunlight, petal texture, color variation and photographic character. Do not invent other flowers or turn the tulips into illustrations.
+
+Concept:
+The two blooms become separate spring lookout points. Action verb: climb and observe.
+
+Composition:
+Create an independent no-text composition rather than removing words from the text version. Crop the larger photographic tulip as a broad petal landscape entering from the lower right. Place the smaller photographic bloom higher and farther left as a second lookout point. Use one real stem as a vertical path and two source-derived leaf fragments as quiet terrain. On a warm-white field, let small primitive workers climb the stem, sit on a petal edge, carry one tiny source-derived pollen-like speck and look between the two blooms. Maintain large, active negative space and keep the photographic flowers dominant.
+
+Doodle language:
+Thin uneven black pen with inconsistent pressure, slight tremor, open segmented outlines and practical faceless poses. Doodles must respond to the real petal and stem geometry. No mascot, detailed anatomy or polished vectors.
+
+Text constraint:
+Absolutely no text anywhere: no Chinese, English, letters, numbers, labels, captions, watermarks or random glyphs. Do not reserve an empty title area.
+
+Constraints:
+No invented flowers, butterflies, pots, gardening props, logos, brand marks, sticker collage, gradients, comic panels or full cartoon conversion.

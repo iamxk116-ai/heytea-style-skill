@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="喜茶风格 Skill 图标">
+  <rect width="256" height="256" rx="54" fill="#F5F0E5"/>
+  <path d="M55 158c32-55 70-80 137-63" fill="none" stroke="#24231F" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="96" cy="125" r="33" fill="#D9C36A" stroke="#24231F" stroke-width="10"/>
+  <path d="M169 96l20-34m-4 51 31-9m-34 35 25 21" fill="none" stroke="#24231F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M71 197c28 9 73 8 115-5" fill="none" stroke="#24231F" stroke-width="8" stroke-linecap="round" stroke-dasharray="8 16"/>
+</svg>

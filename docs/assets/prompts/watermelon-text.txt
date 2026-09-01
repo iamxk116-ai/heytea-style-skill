@@ -1,0 +1,12 @@
+Use case: ads-marketing. Create a vertical 2:3 object-and-doodle editorial poster from the supplied photograph. Treat the input as the only factual source. Preserve these source-derived photographic elements: 真实西瓜、湿润果肉、瓜皮、籽与塑料袋. Keep real material, color, texture and natural shadows. Remove unrelated clutter, logos, brand marks, labels and watermarks. Use a clean warm-white paper field with generous active negative space. Do not turn the photographic subject into an illustration.
+
+Figure and stroke rule, V1 baseline:
+Use thin uneven black pen lines, primitive proportions, open segmented outlines and practical poses. Keep figures subordinate to the photographic anchor, with no detailed face, fashion, polished vector construction or mascot identity.
+
+Composition and action:
+Use the eaten half watermelon as a large moon-like photographic anchor. Place the exact copy around the rind arc, dipping once into the irregular eaten area. Workers walk the rind and collect a seed.
+
+Text, exact and verbatim: "瓜分快乐"
+Draw it as thin black naive handwriting: loose structure, uneven sizes, slight tilts, irregular spacing, occasional stretched horizontal strokes, imperfect joins and readable characters. Keep the wording integrated into the object relationship rather than a fixed title block.
+
+Avoid: standard font, calligraphy, rounded cute font, neat typesetting, heavy marker title, extra text, English, numbers, logos, mascots, stickers, gradients, comic panels, polished vector icons, and full cartoon conversion.

@@ -1,0 +1,10 @@
+interface:
+  display_name: "喜茶风格 Skill"
+  short_description: "把真实照片重组成稚拙手写与小人互动的双方案海报"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.svg"
+  brand_color: "#24231F"
+  default_prompt: "Use $heytea-style-skill to turn my photo into a text-integrated poster and an independent text-free narrative poster."
+
+policy:
+  allow_implicit_invocation: true

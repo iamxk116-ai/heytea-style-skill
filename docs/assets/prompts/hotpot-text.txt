@@ -1,0 +1,12 @@
+Use case: ads-marketing. Create a vertical 2:3 object-and-doodle editorial poster from the supplied photograph. Treat the input as the only factual source. Preserve these source-derived photographic elements: 圆形锅、牛肉、芝士、贝壳、虾与汤勺. Keep real material, color, texture and natural shadows. Remove unrelated clutter, logos, brand marks, labels and watermarks. Use a clean warm-white paper field with generous active negative space. Do not turn the photographic subject into an illustration.
+
+Figure and stroke rule, V1 baseline:
+Use thin uneven black pen lines, primitive proportions, open segmented outlines and practical poses. Keep figures subordinate to the photographic anchor, with no detailed face, fashion, polished vector construction or mascot identity.
+
+Composition and action:
+Place the photographic hotpot slightly below center, let the ladle enter diagonally from the upper left, and use shell and cheese fragments as quiet supporting elements. Let the exact copy follow the upper curve of the pot rim and reach toward the ladle. Add one tiny worker balancing on the rim.
+
+Text, exact and verbatim: "锅里见"
+Draw it as thin black naive handwriting: loose structure, uneven sizes, slight tilts, irregular spacing, occasional stretched horizontal strokes, imperfect joins and readable characters. Keep the wording integrated into the object relationship rather than a fixed title block.
+
+Avoid: standard font, calligraphy, rounded cute font, neat typesetting, heavy marker title, extra text, English, numbers, logos, mascots, stickers, gradients, comic panels, polished vector icons, and full cartoon conversion.

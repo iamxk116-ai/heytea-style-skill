@@ -1,0 +1,26 @@
+Use case: ads-marketing.
+Asset type: vertical 2:3 object-and-doodle editorial poster, V1 comparison result.
+
+Input image:
+Image 1 is the only factual source photograph. Preserve the two real yellow tulips with white and pink lower petals, their green stems, the dark green leaves, natural sunlight, petal texture, color variation and photographic character. Do not invent other flower species or turn the tulips into illustrations.
+
+Concept:
+Two tulips meet the spring light at different heights. Action verb: meet.
+
+Composition:
+Extract the larger lower tulip as the main photographic anchor and the smaller upper tulip as a secondary photographic anchor. Recompose them on a clean warm-white field with generous active negative space. Keep a few source-derived green leaf shapes and stems as quiet supporting fragments. Place the larger bloom below-left of center and the smaller bloom above-right, with an open diagonal interval between them. Let two or three small primitive workers inspect the petal edge, steady a stem and look toward the second bloom. Keep the figures subordinate and sparse.
+
+Exact Chinese text, verbatim:
+“郁见春光”
+
+Text role:
+A loose phrase-level bridge following the diagonal relationship from the lower flower toward the upper flower. Let one naturally extended stroke approach a real petal or stem; do not place it inside a formal title block.
+
+Lettering:
+Thin black naive handwriting, written as one relaxed gesture: uneven character sizes, small individual tilts, irregular spacing, loose structures, imperfect joins, blunt or broken ends, small pressure changes, and one or two stretched horizontal strokes. Keep all four characters correct and readable. No standard font, calligraphy, rounded cute font, neat typesetting or heavy marker title.
+
+Doodle language:
+Thin uneven black pen, slight tremor and awkward joins, primitive faceless open-segmented figures with practical poses. No polished vector people or mascot identity.
+
+Constraints:
+No extra text, English, numbers, labels, logos, brand marks, watermark, invented flowers, butterflies, pots or gardening products, sticker collage, gradients, comic panels or full cartoon conversion.

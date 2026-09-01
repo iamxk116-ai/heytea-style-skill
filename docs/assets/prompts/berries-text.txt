@@ -1,0 +1,12 @@
+Use case: ads-marketing. Create a vertical 2:3 object-and-doodle editorial poster from the supplied photograph. Treat the input as the only factual source. Preserve these source-derived photographic elements: 覆盆子、蓝莓、黑莓与透明果盒. Keep real material, color, texture and natural shadows. Remove unrelated clutter, logos, brand marks, labels and watermarks. Use a clean warm-white paper field with generous active negative space. Do not turn the photographic subject into an illustration.
+
+Figure and stroke rule, V1 baseline:
+Use thin uneven black pen lines, primitive proportions, open segmented outlines and practical poses. Keep figures subordinate to the photographic anchor, with no detailed face, fashion, polished vector construction or mascot identity.
+
+Composition and action:
+Use a raspberry cluster as the main anchor, smaller blueberry and blackberry clusters as supporting elements, and transparent container rims as curved paths. Place the exact copy along the path while tiny workers roll and inspect berries.
+
+Text, exact and verbatim: "莓好碰头"
+Draw it as thin black naive handwriting: loose structure, uneven sizes, slight tilts, irregular spacing, occasional stretched horizontal strokes, imperfect joins and readable characters. Keep the wording integrated into the object relationship rather than a fixed title block.
+
+Avoid: standard font, calligraphy, rounded cute font, neat typesetting, heavy marker title, extra text, English, numbers, logos, mascots, stickers, gradients, comic panels, polished vector icons, and full cartoon conversion.

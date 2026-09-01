@@ -1,0 +1,91 @@
+{
+  "skill_name": "heytea-style-skill",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "把这张梨子照片做成一张有文字的松弛小画，你自己根据梨子的特点写一句短文案。",
+      "expected_output": "Two independently composed outputs by default: a text-integrated version whose short copy comes from visible pear traits, plus a text-free narrative version.",
+      "files": [],
+      "expectations": [
+        "The output defaults to two finished versions: one 文字融入版 and one 无字叙事版.",
+        "The two versions use different composition, element relationships, and narrative priority rather than one layout with text toggled.",
+        "The output identifies the pear as the main photographic anchor and preserves its recognizable texture.",
+        "The copy is short and specifically derived from the pear rather than being a generic encouragement slogan.",
+        "Any homophone, personification, or joke is natural and relevant to the pear.",
+        "The text is assigned a compositional role such as annotation, path, dialogue, label, or object-attached phrase.",
+        "The lettering defaults to thin black naive handwriting, not heavy marker title lettering.",
+        "The prompt rejects standard fonts, calligraphy, rounded cute fonts, and neat typesetting.",
+        "The 无字叙事版 forbids all text, letters, numbers, labels, and random glyphs."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "照片里有一杯葡萄饮料、几颗葡萄和一只手。把原图里的元素拆出来重新组合，文字不要只当标题。",
+      "expected_output": "A source-grounded element map with one main anchor, selected supporting photographic fragments, and short text woven into their relationships.",
+      "files": [],
+      "expectations": [
+        "The output explicitly maps one main anchor and zero to three supporting source-derived elements.",
+        "The output keeps the drink and selected grape or hand fragments photographic rather than redrawing everything.",
+        "The output does not invent unsupported ingredients or product claims.",
+        "The text acts as a label, path, bridge, dialogue, or object-integrated phrase rather than a detached upper-left title.",
+        "The composition keeps generous negative space and avoids a sticker collage.",
+        "Doodles respond to the real geometry or relationship of the photographed elements."
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "字还是太像电脑字体了，而且排得很整齐。底图不要动，只改文字：细黑线、歪一点、大小不一、横画可以拉长。",
+      "expected_output": "A lettering-only correction that preserves the base and regenerates exact Chinese as one or more thin irregular handwriting layers.",
+      "files": [],
+      "expectations": [
+        "The output keeps the existing photographic base unchanged.",
+        "The output treats the problem as glyph skeleton and placement regularity, not just texture.",
+        "The lettering correction uses thin black strokes, varied scale and tilt, irregular spacing, loose structures, and selected elongated horizontal strokes.",
+        "The correction rejects standard fonts, calligraphy, rounded cute handwriting, neat baselines, and perfect grids.",
+        "The output recommends regenerating only the affected short lettering layer or layers.",
+        "Exact spelling and readability remain required."
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "这张茶包照片做无字版，不要标题区，也不要任何乱码，只让小人和真实茶包发生一点关系。",
+      "expected_output": "A no-text narrative concept with a preserved photographic tea bag and one source-responsive primitive action.",
+      "files": [],
+      "expectations": [
+        "The output selects 无字叙事版.",
+        "The prompt forbids all text, letters, numbers, labels, watermarks, and random glyphs.",
+        "The composition does not reserve an empty title zone.",
+        "The tea bag remains photographic and recognizable.",
+        "One clear action makes the tea bag function as a tool, terrain, ingredient, or stage.",
+        "The figure uses thin primitive black lines and does not become a cute mascot."
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "文案太普通了。根据这张带果皮、果肉和汁水的水果图，再想几个短一点、有点谐音或产品灵感感的说法。",
+      "expected_output": "Several concise source-derived candidates followed by selection of the strongest natural phrase, without forced wordplay or unsupported claims.",
+      "files": [],
+      "expectations": [
+        "The output first identifies visible subject traits before drafting copy.",
+        "The output drafts three to five short candidates.",
+        "The preferred phrase is 2 to 8 Chinese characters, or split into two micro-phrases totaling at most 12 characters.",
+        "The selected copy is specific to the visible fruit traits.",
+        "Forced puns, generic slogans, rare characters, and unsupported product claims are rejected.",
+        "The output assigns the selected phrase a visual role in the composition."
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "准备发布这个 skill，检查公开路径、辅助脚本和包体是否可靠。",
+      "expected_output": "A release review that checks public paths, helper scripts, package hygiene, and the absence of unavailable private assets.",
+      "files": [],
+      "expectations": [
+        "The output verifies that no unavailable private reference index or missing cutout is packaged or claimed as usable.",
+        "The output checks public files for absolute workstation paths, social-media filenames, credentials, and raw caches.",
+        "The output verifies that documented helper scripts exist and compile.",
+        "The output parses evals/evals.json and runs the skill validator.",
+        "The output warns against staging .DS_Store and unrelated generated outputs."
+      ]
+    }
+  ]
+}

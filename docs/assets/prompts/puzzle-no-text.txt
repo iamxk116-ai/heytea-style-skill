@@ -1,0 +1,12 @@
+Use case: ads-marketing. Create a vertical 2:3 object-and-doodle editorial poster from the supplied photograph. Treat the input as the only factual source. Preserve these source-derived photographic elements: 蓝灰拼图、折纸鹤、木桌与窗光. Keep real material, color, texture and natural shadows. Remove unrelated clutter, logos, brand marks, labels and watermarks. Use a clean warm-white paper field with generous active negative space. Do not turn the photographic subject into an illustration.
+
+Figure and stroke rule, V1 baseline:
+Use thin uneven black pen lines, primitive proportions, open segmented outlines and practical poses. Keep figures subordinate to the photographic anchor, with no detailed face, fashion, polished vector construction or mascot identity.
+
+Composition and action:
+Arrange three cranes as peaks and two puzzle-piece islands below. Connect the islands with a narrow wood bridge and let workers roll pieces, climb a crane fold and complete the crossing.
+
+Text constraints:
+Absolutely no text anywhere: no Chinese, English, letters, numbers, labels, captions, watermarks or random glyphs.
+
+Avoid: logos, mascots, copied campaign wording, stickers, gradients, comic panels, polished vector icons, cute expressive characters, invented ingredients or unsupported objects.

@@ -1,0 +1,26 @@
+Use case: ads-marketing.
+Asset type: vertical 2:3 photo-and-doodle editorial poster, independent V1 result.
+
+Input image:
+Image 1 is the only factual and visual source. Preserve the exact real orange tabby cat: facial identity, orange-and-cream coat pattern, squinting eyes, open mouth, whiskers, tucked front paws, pose, body proportions and photographic fur texture. Preserve it as a real photograph, not an illustrated mascot. Simplify the gray ground into restrained source-derived fragments.
+
+Concept:
+The cat's expression becomes a tiny unfinished conversation. Action verb: answer.
+
+Composition:
+Place the photographic cat as the dominant lower-center anchor on a warm-white field, slightly off axis so its mouth and whisker direction open into negative space. Retain one restrained gray-ground shape as footing. Add two or three tiny primitive workers: one listens beside a whisker, one leans near the tucked paw and one reacts to the open mouth from a safe distance. Do not cover the face or change the expression.
+
+Exact Chinese text, verbatim:
+“喵两句”
+
+Text role:
+The phrase emerges loosely from the mouth and whisker direction like a brief reply, with the characters staggered in open space. It is not a title block or speech bubble.
+
+Lettering:
+Thin irregular black handwriting made as one relaxed phrase-level action. Uneven character sizes, different tilts, irregular horizontal positions and vertical gaps, loose structures, crooked horizontals, imperfect joins, blunt or broken ends and small pressure changes. Keep all three characters correct and readable. No standard font, calligraphy, rounded cute font, neat typesetting or heavy marker title.
+
+Doodle language:
+Thin uneven black pen, slight tremor, open segmented faceless figures and practical poses responding to the real whisker, paw and body contour. No mascot or polished vector people.
+
+Constraints:
+No extra text, English, numbers, labels, logos, watermark, speech bubble, collars, toys, food bowls, invented accessories, sticker collage or cartoon conversion of the cat.

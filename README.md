@@ -2,8 +2,6 @@
 
 > **让真实物件长出一句话。**
 
-![喜茶风格 Skill 画廊预览](docs/assets/cases/berries/text.webp)
-
 <table>
   <tr>
     <td><strong>🇨🇳 中文介绍</strong></td>
@@ -23,21 +21,21 @@
   <img src="https://img.shields.io/badge/license-MIT-24231F?style=flat-square" alt="MIT license">
 </p>
 
-## 前后效果对比
+## 一张照片，三张图
 
-下面三组图片均由仓库作者使用本 Skill 测试生成。左侧是原始照片，右侧是文字融入版成品。
+默认一次生成两套成品：一张文字融入版和一张无字叙事版。下面选出三组典型案例，把完整链路直接放在 GitHub 首页：原始照片 → 文字融入版 → 无字叙事版。
 
-| 原始照片 · 三种莓果 | 生成效果 ·「莓好碰头」 |
-| --- | --- |
-| ![三种莓果原始照片](docs/assets/cases/berries/source.webp) | ![三种莓果文字融入版](docs/assets/cases/berries/text.webp) |
+| 原始照片 · 三种莓果 | 文字融入版 ·「莓好碰头」 | 无字叙事版 |
+| --- | --- | --- |
+| ![三种莓果原始照片](docs/assets/cases/berries/source.webp) | ![三种莓果文字融入版](docs/assets/cases/berries/text.webp) | ![三种莓果无字叙事版](docs/assets/cases/berries/no-text.webp) |
 
-| 原始照片 · 海鲜牛肉锅 | 生成效果 ·「锅里见」 |
-| --- | --- |
-| ![海鲜牛肉锅原始照片](docs/assets/cases/hotpot/source.webp) | ![海鲜牛肉锅文字融入版](docs/assets/cases/hotpot/text.webp) |
+| 原始照片 · 海鲜牛肉锅 | 文字融入版 ·「锅里见」 | 无字叙事版 |
+| --- | --- | --- |
+| ![海鲜牛肉锅原始照片](docs/assets/cases/hotpot/source.webp) | ![海鲜牛肉锅文字融入版](docs/assets/cases/hotpot/text.webp) | ![海鲜牛肉锅无字叙事版](docs/assets/cases/hotpot/no-text.webp) |
 
-| 原始照片 · 橘猫 | 生成效果 ·「喵两句」 |
-| --- | --- |
-| ![橘猫原始照片](docs/assets/cases/orange-cat/source.webp) | ![橘猫文字融入版](docs/assets/cases/orange-cat/text.webp) |
+| 原始照片 · 橘猫 | 文字融入版 ·「喵两句」 | 无字叙事版 |
+| --- | --- | --- |
+| ![橘猫原始照片](docs/assets/cases/orange-cat/source.webp) | ![橘猫文字融入版](docs/assets/cases/orange-cat/text.webp) | ![橘猫无字叙事版](docs/assets/cases/orange-cat/no-text.webp) |
 
 ## 它做什么
 

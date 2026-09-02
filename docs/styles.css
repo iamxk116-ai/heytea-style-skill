@@ -19,7 +19,6 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
-  overflow-x: clip;
   background:
     radial-gradient(circle at 14% 4%, rgba(255,255,255,.8), transparent 24rem),
     linear-gradient(rgba(82, 72, 50, .025) 1px, transparent 1px),
@@ -163,22 +162,6 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .section-heading h2 { margin: 0 0 16px; font-size: clamp(38px, 5vw, 65px); line-height: 1.08; letter-spacing: -.055em; }
 .section-heading > p:last-child { margin: 0; color: var(--muted); font-size: 17px; }
 
-.before-after-section { padding-top: 92px; padding-bottom: 112px; }
-.before-after-heading { max-width: none; display: grid; grid-template-columns: .9fr 1.1fr; align-items: end; gap: 70px; }
-.before-after-heading > p { max-width: 520px; justify-self: end; margin-bottom: 4px !important; }
-.comparison-list { display: grid; gap: 58px; }
-.comparison-case { padding-top: 24px; border-top: 1px solid var(--line); }
-.comparison-meta { display: flex; align-items: baseline; gap: 14px; margin-bottom: 20px; }
-.comparison-meta span { font: 700 12px ui-monospace, monospace; color: var(--muted); }
-.comparison-meta h3 { margin: 0; font-size: 24px; letter-spacing: -.04em; }
-.comparison-meta em { margin-left: auto; color: var(--muted); font-family: "STKaiti", "KaiTi", serif; font-size: 23px; font-style: normal; transform: rotate(-3deg); }
-.comparison-pair { display: grid; grid-template-columns: minmax(0, 1fr) 54px minmax(0, 1fr); align-items: center; gap: 18px; }
-.comparison-pair figure { margin: 0; }
-.comparison-pair img { width: 100%; aspect-ratio: 2 / 2.7; object-fit: cover; background: var(--paper-light); border: 8px solid var(--paper-light); box-shadow: 0 14px 35px rgba(49, 43, 31, .1); }
-.comparison-pair figure:last-child img { transform: rotate(1.3deg); }
-.comparison-pair figcaption { margin-top: 10px; color: var(--muted); font: 12px ui-monospace, monospace; letter-spacing: .04em; }
-.comparison-arrow { display: grid; place-items: center; width: 54px; height: 54px; border: 1px solid var(--ink); border-radius: 50%; font-size: 28px; transform: rotate(-5deg); }
-.comparison-note { margin: 15px 0 0; max-width: 580px; color: var(--muted); font-size: 14px; }
 
 .principle-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
 .principle-grid article {
@@ -280,8 +263,6 @@ footer { border-top: 1px solid var(--line); }
   .principle-grid article:nth-child(2), .principle-grid article:nth-child(4) { transform: none; }
   .process-inner, .install-grid { grid-template-columns: 1fr; gap: 50px; }
   .case-grid { grid-template-columns: 1fr 1fr; }
-  .before-after-heading { display: block; }
-  .before-after-heading > p { margin-top: 24px !important; justify-self: auto; }
   .media-card[data-role="source"] { grid-column: 1 / -1; }
   .media-card[data-role="source"] .media-frame { max-height: 660px; }
 }
@@ -300,9 +281,6 @@ footer { border-top: 1px solid var(--line); }
   .principle-grid article { min-height: 220px; }
   .principle-grid h3 { margin-top: 38px; }
   .gallery-heading { display: block; }
-  .comparison-pair { grid-template-columns: minmax(0, 1fr) 34px minmax(0, 1fr); gap: 9px; }
-  .comparison-arrow { width: 34px; height: 34px; font-size: 18px; }
-  .comparison-pair img { border-width: 5px; }
   .filters { margin-top: 22px; overflow-x: auto; }
   .case-grid { grid-template-columns: 1fr; }
   .media-card[data-role="source"] { grid-column: auto; }

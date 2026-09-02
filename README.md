@@ -23,6 +23,22 @@
   <img src="https://img.shields.io/badge/license-MIT-24231F?style=flat-square" alt="MIT license">
 </p>
 
+## 前后效果对比
+
+下面三组图片均由仓库作者使用本 Skill 测试生成。左侧是原始照片，右侧是文字融入版成品。
+
+| 原始照片 · 三种莓果 | 生成效果 ·「莓好碰头」 |
+| --- | --- |
+| ![三种莓果原始照片](docs/assets/cases/berries/source.webp) | ![三种莓果文字融入版](docs/assets/cases/berries/text.webp) |
+
+| 原始照片 · 海鲜牛肉锅 | 生成效果 ·「锅里见」 |
+| --- | --- |
+| ![海鲜牛肉锅原始照片](docs/assets/cases/hotpot/source.webp) | ![海鲜牛肉锅文字融入版](docs/assets/cases/hotpot/text.webp) |
+
+| 原始照片 · 橘猫 | 生成效果 ·「喵两句」 |
+| --- | --- |
+| ![橘猫原始照片](docs/assets/cases/orange-cat/source.webp) | ![橘猫文字融入版](docs/assets/cases/orange-cat/text.webp) |
+
 ## 它做什么
 
 | 输入 | 处理 | 默认输出 |
@@ -49,8 +65,6 @@
 5. **精确修正**：错字优先重做文字层；主体失真优先恢复摄影质感。
 
 ## 测试画廊
-
-首页新增 **3 组前后对比**，直接并排展示原始照片与文字融入版，先看主体如何被保留，再看文字、动作和留白如何进入构图。
 
 在线画廊包含 **9 组 / 27 张 WebP / 18 份完整 Prompt**，支持筛选、灯箱查看、Prompt 展开与复制：
 

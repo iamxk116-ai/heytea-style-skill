@@ -4,7 +4,14 @@
 
 ![Heytea Style Skill gallery preview](docs/assets/cases/berries/text.webp)
 
-**[中文](README.md) · English · [Live gallery](https://iamxk116-ai.github.io/heytea-style-skill/) · [Download v1.0.0](https://github.com/iamxk116-ai/heytea-style-skill/releases/tag/v1.0.0)**
+<table>
+  <tr>
+    <td><a href="README.md">🇨🇳 中文介绍</a></td>
+    <td><strong>🇬🇧 English introduction</strong></td>
+    <td><a href="https://iamxk116-ai.github.io/heytea-style-skill/">Live gallery</a></td>
+    <td><a href="https://github.com/iamxk116-ai/heytea-style-skill/releases/tag/v1.0.0">Download v1.0.0</a></td>
+  </tr>
+</table>
 
 An image-to-poster Skill for Codex. It keeps the photographic texture of the source, then adds naive black-line drawing, loose short copy, and functional little figures to turn an ordinary photo into two spacious visual narratives.
 

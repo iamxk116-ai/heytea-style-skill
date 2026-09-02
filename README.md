@@ -4,7 +4,16 @@
 
 ![喜茶风格 Skill 画廊预览](docs/assets/cases/berries/text.webp)
 
-**中文介绍 · [English](README.en.md) · [在线画廊](https://iamxk116-ai.github.io/heytea-style-skill/) · [下载 v1.0.0](https://github.com/iamxk116-ai/heytea-style-skill/releases/tag/v1.0.0)**
+<table>
+  <tr>
+    <td><strong>🇨🇳 中文介绍</strong></td>
+    <td><a href="README.en.md">🇬🇧 Read in English</a></td>
+    <td><a href="https://iamxk116-ai.github.io/heytea-style-skill/">在线画廊</a></td>
+    <td><a href="https://github.com/iamxk116-ai/heytea-style-skill/releases/tag/v1.0.0">下载 v1.0.0</a></td>
+  </tr>
+</table>
+
+> English readers: [open the full English introduction →](README.en.md)
 
 这是一个面向 Codex 的照片转海报 Skill：保留真实照片的质感，用稚拙黑线、松散短文案和功能性小人，把普通照片重组成两套留白充足的视觉叙事。
 

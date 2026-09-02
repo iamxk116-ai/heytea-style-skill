@@ -41,6 +41,8 @@ Each version independently plans crop, negative space, object relationships, and
 
 ## Test gallery
 
+The landing page now opens with **3 before/after comparisons**, placing the source photo beside its text-integrated result so the preserved subject, added action, and compositional change are immediately visible.
+
 The live gallery contains **9 cases / 27 WebP images / 18 complete Prompts**, with filters, a lightbox, expandable Prompts, and copy buttons:
 
 **[Open the live gallery →](https://iamxk116-ai.github.io/heytea-style-skill/)**
